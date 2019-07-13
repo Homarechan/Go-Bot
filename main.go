@@ -10,8 +10,8 @@ import (
 
 	"github.com/line/line-bot-sdk-go/linebot"
 
-	"./datas"
-	"./prefcodes"
+	"github.com/Homarechan/datas"
+	"githuc.bom/Homarechan/prefcodes"
 )
 
 var helpMessage = `コマンド一覧
