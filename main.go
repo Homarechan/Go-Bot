@@ -31,7 +31,7 @@ func main() {
 	port := os.Getenv("PORT")
 
 	if port == "" {
-		log.Fatal("%PORT must be set")
+		log.Fatal("$PORT must be set")
 	}
 
 	bot, err := linebot.New(
