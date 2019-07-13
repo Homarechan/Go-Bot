@@ -1,0 +1,25 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "JL5xt+DCyEwOcaCtAmCPqLKSBYM=",
+			"path": "github.com/Homarechan/datas",
+			"revision": "52978cf43483df1a934d2e0f10bc29aeddba0c38",
+			"revisionTime": "2019-07-13T10:04:23Z"
+		},
+		{
+			"checksumSHA1": "PAbV/pZSXGCVmX7Er9LFl5xDB9o=",
+			"path": "github.com/Homarechan/prefcodes",
+			"revision": "0c4aa8b626c99854e4439649554537a2b5854510",
+			"revisionTime": "2019-07-13T07:08:14Z"
+		},
+		{
+			"checksumSHA1": "Zja9SfESRHLMo74g5mi1AdsGKuk=",
+			"path": "github.com/line/line-bot-sdk-go/linebot",
+			"revision": "259dbdb473c76ebd9d2ddd1584b462c0c8ea9781",
+			"revisionTime": "2019-07-09T06:37:20Z"
+		}
+	],
+	"rootPath": "Go-Bot"
+}
